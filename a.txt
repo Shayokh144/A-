@@ -1,0 +1,38 @@
+mainLP RP
+LBT
+int a cm b cm c smc
+a==2 smc
+IFC LP 2 GT 10 RP
+ LBT
+IFC LP 2 GT 1 RP
+1+2 smc
+OR
+10+10 smc
+ RBT
+OR
+50+50 smc
+IFC LP 3-3 RP
+1+2 smc
+OR
+1+2+5*2 smc
+
+1+200+5*2 smc
+3^3 smc
+5+10/2*3 smc
+b==5 smc
+c==a+b smc
+
+sin LP 45 RP smc
+
+
+IFC LP 2 LT 1 RP
+10+10 smc
+ELIF LP 20 GT 1 RP
+1+20 smc
+OR
+10+10 smc
+
+
+
+
+RBT

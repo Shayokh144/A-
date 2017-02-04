@@ -1,0 +1,12 @@
+
+valid declaration
+Value of the variable: 2	
+value of expression in ELSE: 100
+value of expression in ELSE: 13
+value of the expression: 211
+value of the expression: 27
+value of the expression: 20
+Value of the variable: 5	
+Value of the variable: 7	
+0.707107
+value of expression in ELSEIF: 21
